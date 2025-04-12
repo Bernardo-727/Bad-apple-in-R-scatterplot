@@ -4,9 +4,7 @@ Bad apple
 </h1>
 </center>
 
-<center>
 https://github.com/user-attachments/assets/e7958ab3-966f-4ddb-abfb-ea56bfd421de
-</center>
 
 # Libraries used
 
