@@ -3,9 +3,8 @@
 Bad apple
 </h1>
 </center>
-<center>
-![](output.mp4)
-</center>
+
+https://github.com/user-attachments/assets/87912457-ccdc-4533-9ee2-43159dfad575
 
 # Libraries used
 
